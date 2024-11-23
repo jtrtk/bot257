@@ -22,4 +22,4 @@ async def heh(ctx, count_heh = 10):
 async def chat(ctx):
     await ctx.send("chatchatchatchatchatchatchatchatchatchat")
 
-bot.run("MTMwOTg4NTA2NTk3MDMxOTM3MA.GifKEB.NiMECx3PEomir1sxvEHVe_4gYu3BjrxuCjeEgI")
+bot.run("")
